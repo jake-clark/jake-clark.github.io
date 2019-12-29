@@ -139,7 +139,7 @@
 							<header><h3>Highlighted Conversation Articles</h3></header>
 								
 								<p>
-								I've had the absolute pleasure of writing for The Conversation, a NGO that aims to bridge the gap between researchers and the boarder community. All of the articles are written by academics and researchers, and are published under a Creative Commons license. That means if you are a publisher/blogger etc. reading this and like these stories or others, feel free to republish them at your own discretion!
+								I've had the absolute pleasure of writing for The Conversation, a NGO that aims to bridge the gap between researchers and the boarder community. All of their articles are written by academics and researchers, and are published under a Creative Commons license. That means if you are a publisher/blogger etc. reading this and like these stories or others, feel free to republish them at your own discretion!
 								
 								<ul>
 									<li><a href="https://theconversation.com/googles-artificial-intelligence-finds-two-new-exoplanets-missed-by-human-eyes-89024">Google’s artificial intelligence finds two new exoplanets missed by human eyes</a></li>
@@ -157,17 +157,19 @@
 								<img src="images/IMG_20190521_130646.jpg" alt="Jake on ABC radio with his dashing supervisor Jonti Horner" style="width:100%"/>
 							</figure><br/>
 							
+							Yeah look, it's a bit weird being on the other end of the mic. But I enjoy it nevertheless, as you can see me with USQ's self-proclaimed "Media Tart with a Heart" <a href="https://jontihorner.com/index.html"> Prof. Jonti Horner</a> below at the ABC's Southern Queensland studio!
+							
 							<ul>
 								<li><a href="4zzz.org.au/program/natural-reaction/2018-05-22">Special Guest on 4ZZZ's Natural Reaction</a></li>
 								<li><a href="https://2ser.com/?s=jake%20clark">Scientific Commentary on Astronomical and Space Science News during 2SER drivetime</a></li>
 								<li><a href="https://luminarypodcasts.com/listen/usq-995/phoenix-media-podcast/astronomy-festival-2017/e12e2712-22b1-4072-9665-bcac88b8cbb1">Talking about USQ's festival of astronomy with USQ's Phoenix Radio</a></li>
 							</ul>
 							
-							<header><h3>Highlighted Video Media</h3></header><br/>
-							
+							<header><h3>Highlighted Video Media</h3></header>
+							<p>
+							And here I was thinking I had a face for radio! Apparently not. I've had the absolute pleasure in being a part of two commercial TV science shows, Scope and Brain Buzz. I've appeared on Scope twice, once was showcasing how we can <a href="https://10play.com.au/scope/episodes/season-4/episode-7/tpv190902svxko">use 3D scanning and printing technology to print a copy of TV host</a>. The other time was showing off MINERVA-Australis and how we <a href="https://10play.com.au/scope/episodes/season-4/episode-59/tpv190902vrunf">find exoplanets in regional Queensland</a>. In 2018, I managed to snare the lead role for Brain Buzz's live show held at both the Brisbane Town Hall and Toowoomba's flower festival. The Brisbane Town Hall show alone was to 1400 people
+							</p>
 							<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fusqedu%2Fvideos%2F737921253373097%2F&show_text=0&width=560" width="100%" height="480" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-							
-							
 							
 							<header><h3>Highlighted Online Articles</h3></header><br/>
 							
@@ -190,42 +192,27 @@
 								
 								<p>
 								
-								I'm a cool cucumber
+								I'm a proud South Aussie, hailing from the character building northern suburbs of Adelaide. Growing up in such an environment, I had no role models around me whom had even finished high school, let alone gone off to get a university degree. But, my passion to explore the cosmos broke this social barrier and, well ... started from the bottom now we're here! Oh yeah by the way, my brain is filled with four major topics; astrophysics, music lyrics, sports statistics and obscure Simpsons references.
+								</p>
 								
-								 </p>
+								<header><h3>Tunes</h3></header>
+								
+								<p>
+								Music, and in particular "heavy" music, has been my vice ever since early High School. Moshing about in a mosh pit is very cathartic for me personally, but I completely understand that it's not for everyone! I've had the absolute privilege back at Radio Adelaide to interview some of my biggest idols including Slayer, Killswitch Engage, Parkway Drive, A Day To Remember, Protest The Hero and more. If you'd like to know more about the tunes I dig, I've created a Spotify playlist below which will show you how similar, or maybe dissimilar our tastes in music are.
+								</p>
+								
+								<header><h3>Sportsball</h3></header>
+								
+								<p>
+								My wardrobe only offers two variants, band shirts and sports jerseys. If I'm not headbanging to some heavy earworms, you'll probably see me barracking for ALL of the sportsballs. Favourite teams include Port Adelaide Power (AFL), South Adelaide (SANFL), St. George Illawarra (NRL), Baltimore Ravens (NFL), Houston Astros (MLB), Toronto Raptors (NBA) and Liverpool (EPL) to name a few. And if I'm not watching sport, you'll see me playing AFL for the mighty University Cougars. GO COUGS!!
 
-
+								</p>
+								
+								<figure>
+									<img src="images/ravens.jpg" alt="Jake at MT&T Bank Stadium" style="width:100%"/>
+								</figure><br/>
 
 							</article>
-
-
-						<!-- Contact 
-							<article id="contact" class="panel">
-								<header>
-									<h2>Contact Me</h2>
-								</header>
-								<form action="#" method="post">
-									<div>
-										<div class="row">
-											<div class="col-6 col-12-medium">
-												<input type="text" name="penis" placeholder="Name" />
-											</div>
-											<div class="col-6 col-12-medium">
-												<input type="text" name="email" placeholder="Email" />
-											</div>
-											<div class="col-12">
-												<input type="text" name="subject" placeholder="Subject" />
-											</div>
-											<div class="col-12">
-												<textarea name="message" placeholder="Message" rows="6"></textarea>
-											</div>
-											<div class="col-12">
-												<input type="submit" value="Send Message" />
-											</div>
-										</div>
-									</div>
-								</form>
-							</article> -->
 
 					</div>
 
@@ -241,7 +228,7 @@
 					</nav>
 					
 						<ul class="copyright">
-							<li>&copy; Untitled.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							<li>Home Image Credit: USQ Photography</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
 						</ul>
 					</div>
 
