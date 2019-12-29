@@ -24,7 +24,7 @@
 					<nav id="nav">
 						<a href="#" class="icon solid fa-home"><span>Home</span></a>
 						<a href="#research" class="icon solid fa-star-half-alt"><span>Research</span></a>
-						<a href="https://drive.google.com/file/d/1sPvI2k98uUO1S9RI-WmrlW6hMmZtABBj/view?usp=sharing" class="icon solid fa-scroll"><span>CV</span></a>
+						<a href="#cv" class="icon solid fa-scroll"><span>CV</span></a>
 						<a href="#outreach" class="icon solid fa-satellite"><span>Outreach</span></a>
 						<a href="#media" class="icon solid fa-photo-video"><span>Media</span></a>
 						<a href="#jake" class="icon solid fa-user-astronaut"><span>About Me</span></a>
@@ -80,6 +80,14 @@
 
 							</article>
 							
+							
+						<!-- CV -->
+						<article id="cv" class="panel">
+						
+							<iframe src="https://drive.google.com/file/d/1sPvI2k98uUO1S9RI-WmrlW6hMmZtABBj/preview" width="100%" height="700"></iframe>
+							
+						</article>
+							
 						<!-- Outreach -->
 							<article id="outreach" class="panel">
 								<header>
@@ -117,7 +125,6 @@
 									<h2>Media Coverage</h2>
 								</header>
 								
-								
 								<p>
 								In my previous life, I founded and coordinated the heavy music radio show <a href="https://www.facebook.com/moshradioadelaide">MOSH</a> at Radio Adelaide, Australia's oldest community radio station. Combining this experience with my Science Circus training, I've become pretty media savvy, yarning on the radio, TV, print and social media about the latest astronomical research across the globe. Below are some of my media highlights and is by no means an exhaustive list.
 								
@@ -132,7 +139,7 @@
 							<header><h3>Highlighted Conversation Articles</h3></header>
 								
 								<p>
-								I've had the absolute pleasure of writing The Conversation, a NGO that aims to bridge the gap between researchers and the boarder community. All of the articles are written by academics and researchers, and are published under a Creative Commons license. That means if you are a publisher/blogger etc. reading this and like these stories or others, feel free to republish them at your own discrection:
+								I've had the absolute pleasure of writing for The Conversation, a NGO that aims to bridge the gap between researchers and the boarder community. All of the articles are written by academics and researchers, and are published under a Creative Commons license. That means if you are a publisher/blogger etc. reading this and like these stories or others, feel free to republish them at your own discretion!
 								
 								<ul>
 									<li><a href="https://theconversation.com/googles-artificial-intelligence-finds-two-new-exoplanets-missed-by-human-eyes-89024">Google’s artificial intelligence finds two new exoplanets missed by human eyes</a></li>
@@ -140,51 +147,37 @@
 									<li><a href="https://theconversation.com/we-have-a-christmas-comet-how-to-spot-2018s-interplanetary-bauble-108597">We have a Christmas comet: how to spot 2018’s interplanetary bauble</a></li>
 								</ul>
 								
-								If any of these tickled your fancy, you can check out the rest of my Converstion articles <a href="https://theconversation.com/profiles/jake-clark-391989">here.</a>
+								If any of these tickled your fancy, you can check out the rest of my Conversation articles <a href="https://theconversation.com/profiles/jake-clark-391989">here.</a>
 								</p>
 
-										
-								<!--		<div class="col-4 col-6-medium col-12-small">										
-											Curious Kids: Why do stars twinkle?
-											<a href="<a href="https://theconversation.com/curious-kids-why-do-stars-twinkle-81188" class="image fit"><img src="images/file-20170801-22169-m3uof.jpg" alt="" /></a>
-										</div>
-										
-										<div class="col-4 col-6-medium col-12-small">										
-											We have a Christmas comet: how to spot 2018’s interplanetary bauble
-											<a href="" class="image fit"><img src="images/44146031540_1636928642_w.jpg" alt="" /></a>
-										</div>
-										
-								</div>
-								
-							<h2>Highlighted Radio Apperances</h2>
+
+							<header><h3>Highlighted Radio Appearances</h3></header>
 							
-								<div class="row">
-								
-									<div class="col-4 col-6-medium col-12-small">
-										Special Guest on 4ZZZ's Natural Reaction
-										<a href="4zzz.org.au/program/natural-reaction/2018-05-22" class="image fit"><img src="images/4zzz.png" alt="" /></a>
-									</div>
-									
-									<div class="col-4 col-6-medium col-12-small">
-									Scientific Commentary on Astronomical and Space Science News during 2SER drivetime
-										<a href="https://2ser.com/?s=jake%20clark" class="image fit"><img src="images/2serlogo.png" alt="" /></a>
-									</div>
-									
-									<div class="col-4 col-6-medium col-12-small">
-										Phenoix Radio
-										<a href="https://luminarypodcasts.com/listen/usq-995/phoenix-media-podcast/astronomy-festival-2017/e12e2712-22b1-4072-9665-bcac88b8cbb1" class="image fit"><img src="images/zrPexlEH_400x400.png" alt=""/></a>
-									</div>
-									
-								</div>
+							<figure>
+								<img src="images/IMG_20190521_130646.jpg" alt="Jake on ABC radio with his dashing supervisor Jonti Horner" style="width:100%"/>
+							</figure><br/>
+							
+							<ul>
+								<li><a href="4zzz.org.au/program/natural-reaction/2018-05-22">Special Guest on 4ZZZ's Natural Reaction</a></li>
+								<li><a href="https://2ser.com/?s=jake%20clark">Scientific Commentary on Astronomical and Space Science News during 2SER drivetime</a></li>
+								<li><a href="https://luminarypodcasts.com/listen/usq-995/phoenix-media-podcast/astronomy-festival-2017/e12e2712-22b1-4072-9665-bcac88b8cbb1">Talking about USQ's festival of astronomy with USQ's Phoenix Radio</a></li>
+							</ul>
+							
+							<header><h3>Highlighted Video Media</h3></header><br/>
+							
+							<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fusqedu%2Fvideos%2F737921253373097%2F&show_text=0&width=560" width="100%" height="480" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+							
+							
+							
+							<header><h3>Highlighted Online Articles</h3></header><br/>
+							
+							<ul>
+								<li><a href="https://medium.com/queensland-science/potential-origins-of-our-first-alien-visitor-revealed-998ce9f2c697?">An article I wrote about our first detected interstellar visitor Oumuamua</a></li>
+								<li><a href="https://www.sciencealert.com/the-moon-is-upside-down-on-the-other-side-of-the-world-and-it-s-freaking-us-out">Discussing why we perceive the Moon differently, depending upon where we live on Earth (obvs it's the right way Down Under).</a></li>
+
 
 							
 							
-							<h2>Highlighted TV Apperances</h2>
-							
-							<h2>Highlighted Print Apperances</h2>
-							
-							
-							-->
 
 						</article>
 
