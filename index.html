@@ -52,7 +52,7 @@
 								</header>
 								
 								
-								<p>I want to try and answer one of humankind's greatest mysteries; Are we alone? My PhD research improves the stellar and planetary characteristics of known and newly discovered planets and the stars that host them. Not only do I want to improve the physical characteristics of these stars and planets, but I also want to know what these planets are actually made out of. Are they made of fairy floss? A whole planet made out of Vegemite? Okay... that's a bit ridiculous, but we can actually detect the amount of rocky material within a host star's atmosphere and then use this as a proxy of the rocky material that these planets could comprise of! From this information, we can make better informed decisions to see if these exoplanets could be terrestrial-like in composition, and thus a better sense of whether life could exist on these alien worlds.<br /><br />
+								<p>I want to try and answer one of humankind's greatest mysteries; Are we alone? I am currently a PhD Candidate based at the University of Southern Queensland's Toowoomba campus, in sunny Queensland, Australia. My PhD research improves the stellar and planetary characteristics of known and newly discovered planets and the stars that host them. Not only do I want to improve the physical characteristics of these stars and planets, but I also want to know what these planets are actually made out of. Are they made of fairy floss? A whole planet made out of Vegemite? Okay... that's a bit ridiculous, but we can actually detect the amount of rocky material within a host star's atmosphere and then use this as a proxy of the rocky material that these planets could comprise of! From this information, we can make better informed decisions to see if these exoplanets could be terrestrial-like in composition, and thus a better sense of whether life could exist on these alien worlds.<br /><br />
 								
 								<iframe width="100%" height="480" src="https://www.youtube.com/embed/aiFD_LBx2nM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br /><br />
 
@@ -94,17 +94,19 @@
 								</figure><br/>
 
 								
-								I LOVE talking about research as much as conducting it. I was
+								<p>If you haven't realised by now, I. LOVE. SPACE!! And I love talking about it as much as I do researching it. Currently, I'm the Student Representative for the Astronomical Society of Australia's <a href="http://asaepoc.org/roles/">Education and Public Outreach Chapter</a> and way back in 2016, I received the opportunity of a lifetime, running away and joining the circus... the <a href="https://www.questacon.edu.au/outreach/programs/science-circus">Questacon Science Circus</a>. The Science Circus is a practical Master's course run jointly by Questacon, the National Science and Technology Centre, and the Australian National University. I travelled all around Australia, presenting engaging STEM shows to primary and high school students. This experience definitely honed my science communication skills, which are invaluable for any modern-day scientist!
+								</p>
 								
-								BUILD A PLANET USQ community groups Channel Nine, Scope, Questacon (Shows)
-								
-								My PhD research is a huge bag of mixed lollies. It aims to redefine the stellar and planetary characteristics of known and newly discovered exoplanetary systems whilst using the chemical abundances of stars to un-Earth other alien worlds using machine learning techniques.<br /><br />
+								<figure>
+									<img src="images/SitP_Tasmania.jpg" alt="Jake captivating Tasmanians about alien worlds" style="width:100%"/>
+									<figcaption><i>Photo Credit: Andrew Rushby</i></figcaption>
+								</figure><br/>
 
-								As of June 2019, astronomers have discovered over 4,000 exoplanets beyond our solar system. Unfortunately, with the two main methods we use to detect these fasinating worls, all we tend to see is indirect evidence of a planet. We either see a periodic dip in the host stars' light or light spectrum shift as the planet's gravitational pull tugs on the star. With these two measuremenets alone, you can roughly determine the geological and chemical composition of rocky terrestial worlds known as super-Earths or small gassy worlds known as sub-Neptunes. But, what if we could do better than that? What other information can we pull out of these two measurements alone to help us better understand the fundamental structure of these worlds? Well, the gravitonal tug method discussed above, known as the Radial Velocity technique, utilises precise measurements of a stars spectrum. This spectrum encodes the chemical abundances of the star, showcasing the distrubution of different materials within it. The amount of Silicon, Iron, Magnesium, and other elements found within a planet hosting star and potentially the disc and <br /><br />
-
+								<p>
+								Throughout 2019, I was the lead PI for an Advanced Queensland Engaging Science grant, where I travelled across regional South East Queensland, getting junior primary students to dance through the solar system and build their very own alien worlds from dough. In the coming months, I'll have my <a href="https://advance.qld.gov.au/engaging-science-grants-recipients">Build-A-Planet</a> activities up on the astronomy education resource website <a href="https://astroedu.iau.org/en/">astroEDU</a>. My main outreach activities currently revolve around the University of Southern Queensland's <a href="https://www.usq.edu.au/hes/school-of-sciences/mt-kent-observatory/astronomy-for-schools">Astronomy for Schools and Communities</a> program. It's an incursion-based program where we travel around to different schools around regional Queensland, showing off our immaculate dark, regional skies with portable and easily accessible telescopes. In mid-2019, The Conversation ran its first <a href="https://www.usq.edu.au/study/faculty-events/2019/07/festival-of-astronomy/curious-kids-talk">Curious Kids</a> night at USQ, where I got to talk to a room full of budding scientists about bags of poo on the Moon and oceans of liquid "farts" on Uranus... it was LOADS of fun!
+								<br/><br/>
+								Some of my other outreach escapades including presenting my science at numerous events across Australia including <a href="https://pintofscience.com.au/event/starry-starry-nights">Pint of Science</a>, Gold Coast Skeptics Club annual <a href="https://www.gcskeptics.com/single-post/2019/03/24/Darwin-Day-2019">Darwin Day</a>, <a href="https://scipubtas.org.au/blog/2018/08/14/science-at-nasa/"> Science in the Pub Tasmania</a> and up to Outback Queensland for the Queensland Government's <a href="http://www.wonderofscience.com.au/flying-scientists">Flying Scientists program</a> to name a few.
 								 </p>
-
-
 
 							</article>
 							
@@ -117,30 +119,39 @@
 								
 								
 								<p>
+								In my previous life, I founded and coordinated the heavy music radio show <a href="https://www.facebook.com/moshradioadelaide">MOSH</a> at Radio Adelaide, Australia's oldest community radio station. Combining this experience with my Science Circus training, I've become pretty media savvy, yarning on the radio, TV, print and social media about the latest astronomical research across the globe. Below are some of my media highlights and is by no means an exhaustive list.
 								
-								In my previous life, I founded and coordinated the heavy music radio show <a href="https://www.facebook.com/moshradioadelaide">MOSH</a> at Radio Adelaide, Australia's oldest community radio station. Combining this experience with my Science Circus training, I've become pretty media savvy, yarning on the radio, TV, print and social media about the lastest astromical research across the globe. Below are some of my highlights and is no means an exhaustive list! 
+								<figure>
+									<img src="images/RadAdlHim.jpg" alt="A much younger Jake, talking to Ville Valo, lead singer of the Finnish Love Metal band, HIM" style="width:100%"/>
+									<figcaption><i>OMG, yes that's me interviewing Ville Valo from HIM. Photo Credit: Nicholas Quadrio</i></figcaption>
+								</figure><br/>
 								
 
 								 </p>
 								 
 							<header><h3>Highlighted Conversation Articles</h3></header>
 								
-								I've had the absolute pleasure of writing The Conversation is a NGO that aims to bridge the gap between researchers and the boarder community. 
+								<p>
+								I've had the absolute pleasure of writing The Conversation, a NGO that aims to bridge the gap between researchers and the boarder community. All of the articles are written by academics and researchers, and are published under a Creative Commons license. That means if you are a publisher/blogger etc. reading this and like these stories or others, feel free to republish them at your own discrection:
 								
-								<div class="row">
-										<div class="col-4 col-6-medium col-12-small">										
-											Google’s artificial intelligence finds two new exoplanets missed by human eyes
-											<a href="https://theconversation.com/googles-artificial-intelligence-finds-two-new-exoplanets-missed-by-human-eyes-89024" class="image fit"><img src="images/file-20171215-17878-rik7zz.jpg" alt="" /></a>
-										</div>
+								<ul>
+									<li><a href="https://theconversation.com/googles-artificial-intelligence-finds-two-new-exoplanets-missed-by-human-eyes-89024">Google’s artificial intelligence finds two new exoplanets missed by human eyes</a></li>
+									<li><a href="https://theconversation.com/curious-kids-why-do-stars-twinkle-81188">Curious Kids: Why do stars twinkle?</a></li>
+									<li><a href="https://theconversation.com/we-have-a-christmas-comet-how-to-spot-2018s-interplanetary-bauble-108597">We have a Christmas comet: how to spot 2018’s interplanetary bauble</a></li>
+								</ul>
+								
+								If any of these tickled your fancy, you can check out the rest of my Converstion articles <a href="https://theconversation.com/profiles/jake-clark-391989">here.</a>
+								</p>
+
 										
-										<div class="col-4 col-6-medium col-12-small">										
+								<!--		<div class="col-4 col-6-medium col-12-small">										
 											Curious Kids: Why do stars twinkle?
 											<a href="<a href="https://theconversation.com/curious-kids-why-do-stars-twinkle-81188" class="image fit"><img src="images/file-20170801-22169-m3uof.jpg" alt="" /></a>
 										</div>
 										
 										<div class="col-4 col-6-medium col-12-small">										
 											We have a Christmas comet: how to spot 2018’s interplanetary bauble
-											<a href="https://theconversation.com/we-have-a-christmas-comet-how-to-spot-2018s-interplanetary-bauble-108597" class="image fit"><img src="images/44146031540_1636928642_w.jpg" alt="" /></a>
+											<a href="" class="image fit"><img src="images/44146031540_1636928642_w.jpg" alt="" /></a>
 										</div>
 										
 								</div>
@@ -173,7 +184,7 @@
 							<h2>Highlighted Print Apperances</h2>
 							
 							
-							
+							-->
 
 						</article>
 
