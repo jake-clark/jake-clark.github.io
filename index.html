@@ -41,7 +41,7 @@
 								</header>
 								<a href="#research" class="jumplink pic">
 									<span class="arrow icon solid fa-chevron-right"><span>See my reasearch</span></span>
-									<img src="images/Clark1119_dm_025_crop.jpg" alt="" />
+									<img src="images/mugshot.jpg" alt="" />
 								</a>
 							</article>
 
@@ -84,7 +84,7 @@
 						<!-- CV -->
 						<article id="cv" class="panel">
 						
-							<iframe src="https://drive.google.com/file/d/18Ar7i2JZOD520Rcmah63TAoaNk6gzJPZ/preview" width="100%" height="700"></iframe>
+							<iframe src="https://drive.google.com/file/d/1sPvI2k98uUO1S9RI-WmrlW6hMmZtABBj/preview" width="100%" height="700"></iframe>
 							
 						</article>
 							
@@ -212,6 +212,68 @@
 									<img src="images/ravens.jpg" alt="Jake at MT&T Bank Stadium" style="width:100%"/>
 								</figure><br/>
 
+							</article>
+							
+							<article id="TESS21" class="panel">
+							
+							<header>
+									<h1>How do Stellar Surveys Like GALAH Improve Our Understanding of Planetary Systems?</h1>
+									<p><p>
+									<h2>Jake Clark, Rob Wittenmyer etc.</h2>
+									<p>
+									So here’s the low down. You’ve just sat down at your desk on a Monday morning. The smell of coffee permeates through the room as you slowly scroll through the hundreds of emails you’ve received during the weekend. But one single notification stands out… TESS has just dropped some hot off-the-press candidates. Some are located in the Southern sky, your favourite hemisphere! But, you want to know more about the physical and chemical characteristics of these candidate host’s... where do you begin to look? Well, we’ve got you fam!
+									<p>
+									I’m going to try and summarise the last four years of my life in one interactive poster… so strap yourself in.
+									<p><h3>WHY GALAH? WELL, WHY NOT!</h3><p>
+									Involving fewer shovels and more optical fibres, galactic archeology is a growing sub-field in astronomy, aiming to better understand the formation and evolution of our home galaxy, the Milky Way. Galactic archeology surveys are huge stellar surveys, with rich data sets containing both the physical and chemical properties of stars contained within our galaxy (and sometimes even beyond).
+									<p>
+									As you can see with the plot below, the overlap between the TESS sectors, in orange, and stars observed with Australia’s Galactic Archeology with HERMES survey (GALAH), in purple, is incredible. So why not utilise these big surveys to further characterise current and future TESS planetary systems with GALAH? Sounds like a no brainer to me!
+									<figure>
+									<img src="images/SKYTESSGALAH.png" style="width:100%" class="center">
+									<figcaption><i>How beautiful is this overlap Huh?!</i></figcaption>
+									</figure><br/>
+									<p><h3>WHAT TYPES OF ROCKY WORLDS IS TESS LIKELY TO FIND?</h3><p>
+									Now that is a cool question to try to answer. The answer to this question can be found below. But the TL;DR is: Around half of the rocky worlds found by TESS will likely have geological compositions unlike any object found within our Solar System!!
+									<p>
+									You’re probably thinking, Jake and team, how did you work that one out?! Well, here goes the recipe list, without the doom scrolling of me verbosely describing how I made the cosmic cake before the actual cake recipe.
+									<p><b>Ingredients:</b><p>
+									<ul>
+									<li>Spectral properties from GALAH’s Second Data Release (Teff, logg and [M/H]*) (* see graph below for some real talk about our little friend [M/H])</li>
+									<li>Photometric magnitudes for these stars, including GAIA (G, GR, GB), 2MASS (J, H, Ks) and V </li>
+									<li>Parallax values from GAIA DR2</li>
+									<li>Python package iscochrones</li>
+									<li>Cross-matching package TOPCAT</li>
+									</ul>
+									<p><b>Recipe:</b><p>
+									<ol>
+									<li>Obtain GALAH’s second data release (https://datacentral.org.au/teamdata/GALAH/public/GALAH_DR2/)</li>
+									<li>Cross match the GALAH catalog with GAIA DR2 and the TESS Input Catalog within the software TOPCAT, keeping the stars with the highest SNR* (more detail in our paper)</li>
+									<li>Use the spectral, photometric and astrometric properties from GALAH, GAIA and the TIC above as input for isochrones</li>
+									<li>Obtain mass, radius, luminosity, habitable zones etc. for over 47,000+ stars</li>
+									</ol>
+									<p>
+									And voila, you've just created the GALAH-TESS catalouge! If you'd like to get your hands on some freshly squeezed science, both the
+									
+									<a href="https://datacentral.org.au/teamdata/GALAH/public/GALAH_DR2/VAC/GALAH_TESS/">data</a> and 
+									
+									<a href="https://doi.org/10.1093/mnras/stab1052">paper</a> are now publicly available!
+									
+									<p><h3>PSA about "Metals"</h3><p>
+									<p>
+									Real talk for a second though. As a member of the astronomical community, I know that we love making our lives simple. Some simplifications include; always searching for log-log relationships, assuming PETA doesn’t know about our obsession with spherical cows in a vacuum and more importantly, assuming the periodic table only contains hydrogen, helium and “metals”.
+									<p>
+									This assumption really breaks down for our iron-poor and alpha-rich thicc disk friends (which you can’t tell if the star is a thin or thick boi just based upon their iron-abundance alone) and can have disastrous effects on your isochrone results. We’ve all been there, lessons learnt! Just remember [Fe/H] != [M/H].
+									<p>
+									<figure>
+									<img src="images/mh.png" style="width:100%"/>
+									<figcaption>The TIC has directly incorporated GALAH’s [Fe/H] values as [M/H]. For our [M/H] values, we have also incorporated [alpha/Fe] values. As you can see for alpha-rich, thick disc stars, the difference can be as large as 0.5 dex!</figcaption>
+									</figure><br/>
+									<p> hello joe
+
+
+									
+							</header>
+							
 							</article>
 
 					</div>
